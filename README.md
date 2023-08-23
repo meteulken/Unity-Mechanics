@@ -1,4 +1,4 @@
-# Unity Mekanikleri Örnek Projesi
+# Unity Mekanikleri
 
 Bu repo, çeşitli Unity mekaniklerinin uygulandığı bir örnek proje içerir. Her mekanik ayrı bir klasörde bulunur ve ilgili özellikleri ve nasıl uygulandıklarını içeren kaynak kodları içerir.
 
